@@ -1,0 +1,5 @@
+420250;SSD KINGSTON;1700
+684384;ОЗУ HyperX;6000
+115401;Ноутбук ACER Aspire;22140
+395046;Процессор Intel Core i7;25690
+329856;Видеокарта Nvidia Geforce RTX 3080;200000
